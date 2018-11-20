@@ -94,3 +94,10 @@ hr {
   padding-left: 20px;
   padding-right: 20px;
 }
+
+#snakehips {
+  height: 30%;
+  width: 30%;
+  float: left;
+  padding-right: 3%;
+}

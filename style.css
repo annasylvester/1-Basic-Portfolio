@@ -1,0 +1,49 @@
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url(geometry.png);
+  background-size: 300px 300px;
+  background-repeat: repeat;
+  font-size: '18px';
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: white;
+  -webkit-box-shadow: 0 8px 6px -6px #999;
+  -moz-box-shadow: 0 8px 6px -6px #999;
+  box-shadow: 0 8px 6px -6px #999;
+}
+
+.topnav a {
+  float: left;
+  color: black;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4aaaa5;
+  color: white;
+  font-size: 20px;
+  margin-left: 20%;
+}
+
+.right {
+  margin-right: 20%;
+  float: right;
+}
+
+.section {
+  margin: auto;
+  padding: 2%;
+  background-color: white;
+  width: 60%;
+}
